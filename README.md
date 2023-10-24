@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nikolamihailov&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+- <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bebo13133&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
