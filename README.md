@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![My Skills](https://skillicons.dev/icons?i=js,vscode,react,html,css,nodejs,expressjs,mongodb,php,wordpress,vscode,java,mysql,eclipse)](https://skillicons.dev)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?bebo13133=&theme=onedark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=onedark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
