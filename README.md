@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My Skills](https://skillicons.dev/icons?i=js,vscode,react,html,css,nodejs,expressjs,mongodb,php,wordpress,vscode,java,mysql,eclipse)](https://skillicons.dev)
-
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=bebo13133&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</div>
