@@ -21,4 +21,7 @@ Here are some ideas to get you started:
   
 <img src="https://streak-stats.demolab.com?user=bebo13133&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
+<div>
 https://github-profile-trophy.vercel.app/?username=bebo13133&theme=onedark
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=bebo13133&theme=theme_name)
+</div>
