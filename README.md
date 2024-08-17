@@ -1,7 +1,10 @@
 ### <h2 align="center"> Hi, I am Borislav 👋</h2> 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🟡 **Tech enthusiast**: Passionate coder, lifelong learner
+- 🔴 **Busy with React, Vanilla JS, and DSA**: Building apps, solving algorithms
+- 🟢 **Making a bunch of cool projects too**: Creative developer, side projects
+
 
 
 ## 🌐 Socials:
