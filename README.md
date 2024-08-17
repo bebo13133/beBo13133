@@ -21,3 +21,4 @@ Here are some ideas to get you started:
   
 <img src="https://streak-stats.demolab.com?user=bebo13133&theme=onedark&hide_border=true" alt="GitHub Streak" />
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bebo13133&theme=onedark)](https://github.com/bebo13133/github-profile-trophy)
