@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 </div>
 <div>
 https://github-profile-trophy.vercel.app/?username=bebo13133&theme=onedark
+</div>
+<div>
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=bebo13133&theme=theme_name)
 </div>
