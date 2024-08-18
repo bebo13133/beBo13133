@@ -31,7 +31,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bebo13133&limit=5&theme=onedark&combine_all_yearly_contributions=false)
+![](https://github-contributor-stats.vercel.app/api?username=bebo13133&limit=8&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bebo13133&icon=6&color=0)](https://visitcount.itsvg.in)
