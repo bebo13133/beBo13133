@@ -1,9 +1,9 @@
 ### <h2 align="center"> Hi, I am Borislav 👋</h2> 
 
 # 💫 About Me:
-- 🟡 **Tech enthusiast**: Passionate coder, lifelong learner
-- 🔴 **Busy with React and Vanilla JS**: Building modern web apps
-- 🟢 **Making a bunch of cool projects too**: Creative developer, side projects
+ 🟡 **Tech enthusiast**: Passionate coder, lifelong learner
+ 🔴 **Busy with React and Vanilla JS**: Building modern web apps
+ 🟢 **Making a bunch of cool projects too**: Creative developer, side projects
 
 
 ## 🌐 Socials:
